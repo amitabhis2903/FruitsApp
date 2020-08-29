@@ -52,8 +52,7 @@
 		65820BA924FACC8A0069D29F /* Fruits */ = {
 			isa = PBXGroup;
 			children = (
-				65820BAA24FACC8A0069D29F /* FruitsApp.swift */,
-				65820BAC24FACC8A0069D29F /* ContentView.swift */,
+				65820BB924FAD1310069D29F /* App */,
 				65820BAE24FACC8B0069D29F /* Assets.xcassets */,
 				65820BB324FACC8B0069D29F /* Info.plist */,
 				65820BB024FACC8B0069D29F /* Preview Content */,
@@ -67,6 +66,15 @@
 				65820BB124FACC8B0069D29F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		65820BB924FAD1310069D29F /* App */ = {
+			isa = PBXGroup;
+			children = (
+				65820BAA24FACC8A0069D29F /* FruitsApp.swift */,
+				65820BAC24FACC8A0069D29F /* ContentView.swift */,
+			);
+			path = App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
